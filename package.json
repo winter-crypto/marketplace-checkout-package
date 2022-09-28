@@ -1,6 +1,6 @@
 {
   "name": "winter-marketplace-checkout",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Integrate Winter's NFT checkout with this React component",
   "author": "azianmike",
   "private": false,
