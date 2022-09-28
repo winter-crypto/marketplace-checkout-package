@@ -1,8 +1,8 @@
 {
-  "name": "@usewinter/checkout",
+  "name": "winter-marketplace-checkout",
   "version": "0.1.20",
   "description": "Integrate Winter's NFT checkout with this React component",
-  "author": "Evan Fisher",
+  "author": "azianmike",
   "private": false,
   "keywords": [
     "react",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winter-crypto/checkout-package.git"
+    "url": "git+https://github.com/winter-crypto/marketplace-checkout-package.git"
   },
   "peerDependencies": {
     "@babel/polyfill": ">=7.12.1",
