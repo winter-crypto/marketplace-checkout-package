@@ -14,7 +14,7 @@ yarn add winter-marketplace-checkout
 
 Usage in your react app
 ```
-import { WinterCheckout } from '@usewinter/checkout';
+import { WinterCheckout } from 'winter-marketplace-checkout';
 
 
 <WinterCheckout
