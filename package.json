@@ -9,8 +9,8 @@
     "components",
     "ui"
   ],
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/index.tsx",
+  "module": "dist/index.tsx",
   "files": [
     "dist",
     "README.md"
