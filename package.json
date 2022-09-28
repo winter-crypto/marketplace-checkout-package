@@ -9,8 +9,8 @@
     "components",
     "ui"
   ],
-  "main": "dist/index.ts",
-  "module": "dist/index.ts",
+  "main": "src/index.ts",
+  "module": "src/index.ts",
   "files": [
     "dist",
     "README.md"
