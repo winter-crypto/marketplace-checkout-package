@@ -5,11 +5,11 @@
 
 Installation
 ```
-npm i @usewinter/checkout
+npm i winter-marketplace-checkout
 
 OR 
 
-yarn add @usewinter/checkout
+yarn add winter-marketplace-checkout
 ```
 
 Usage in your react app
